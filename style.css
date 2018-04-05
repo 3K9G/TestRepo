@@ -10,3 +10,9 @@ body{
 .just_for_conflict{
 	color: red;
 }
+
+p {
+	font-size: 12pt;
+	color: #000000;
+	padding: 15px;
+}
